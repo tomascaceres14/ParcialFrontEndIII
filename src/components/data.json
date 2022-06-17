@@ -1,5 +1,6 @@
 [
     {
+        "img": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw5d2cf9e4/products/NI_DC3728-003/NI_DC3728-003-1.JPG",
         "id": "1",
         "producto": {
             "nombre": "Zapatillas Nike Revolution 6 Next Nature",
@@ -8,6 +9,7 @@
         "stock": 5
     },
     {
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw51d01af3/products/PU_382116-08/PU_382116-08-1.JPG",
         "id": "2",
         "producto": {
             "nombre": "Zapatillas Puma Shuffle",
@@ -16,6 +18,7 @@
         "stock": 1
     },
     {
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3bf3b7c8/products/AD_FX3593/AD_FX3593-1.JPG",
         "id": "3",
         "producto": {
             "nombre": "Zapatillas Adidas Coreracer",
