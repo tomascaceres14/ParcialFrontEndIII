@@ -2,5 +2,10 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  /* background-color: #b6f3fd; */
+}
+
+body {
+  background-image: url('https://d3ugyf2ht6aenh.cloudfront.net/stores/879/397/products/boca1-e59644206ceb8c069916275650654387-1024-1024.png');
+  background-position: center;
+  background-repeat: repeat;
 }

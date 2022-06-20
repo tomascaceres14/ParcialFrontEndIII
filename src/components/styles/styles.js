@@ -1,4 +1,13 @@
-import styled from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
+
+
+
+export const GlobalStyle = createGlobalStyle`
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    `;
+
 
 /*Body*/
 
@@ -9,7 +18,6 @@ export const Body = styled.div`
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('https://d3ugyf2ht6aenh.cloudfront.net/stores/879/397/products/boca1-e59644206ceb8c069916275650654387-1024-1024.png');
   background-position: center;
   background-repeat: repeat; 
 `;
@@ -55,10 +63,12 @@ export const Producto = styled.div`
   border: 2px solid black;
 `;
 export const ProdImg = styled.img`
-width: 100%;
+width: 45%;
 height: auto;
 border-radius: 20%;
 border: 5px solid #FFBF00;
+position: relative;
+left: 25%;
 `;
 export const ProdH5 = styled.h5`
   text-align: center;
